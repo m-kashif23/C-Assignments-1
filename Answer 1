@@ -5,6 +5,7 @@ A1- #include<iostream>
     cout<<"Physcis"<<endl<<"Wallah";
     return 0;
     }
+
 Q2. Write a program to print 10 using 2 positive numbers less than 6 in C++ as output.
 A2. #include<iostream>
     using namespace std;
@@ -15,6 +16,7 @@ A2. #include<iostream>
     cout<<c;
     return 0;
     }
+
 Q3. How much space does the following data types take?
 . int
 . bool
@@ -42,10 +44,7 @@ A5. #include<iostream>
     return 0;
     }
 
-
-
-directly Copy Paste using Google or ChatGPT. Please use your brain.
-Q6. How many of these can be a variable name ?
+Q6. How many of these can be a variable name?
 . 01Pwskills
 . _FLOAT
 . int
